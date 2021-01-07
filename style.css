@@ -463,11 +463,11 @@
     }
 
     .sect-024 .inner p {
-        font-size:0.8em;
+        font-size:0.6em;
     }
 
     .sect-024 .inner h4 {
-        font-size:1em;
+        font-size:0.7em;
     }
 
     .sect-024 .inner h1 {
@@ -484,7 +484,7 @@
     }
 
     .sect-024 .inner .shipment-info p, .sect-028 .inner .shipment-info p {
-        font-size: 1em;
+        font-size: 0.75em;
     }
     .sect-024 .inner .shipment-info h6, .sect-028 .inner .shipment-info h6 {
         font-size: 2em;
@@ -500,11 +500,11 @@
     }
 
     .sub-inner h3 {
-        font-size: 0.7em;
+        font-size: 0.6em;
     }
 
     .sub-inner p {
-        font-size:0.8em;
+        font-size:0.75em;
     }
 
 
@@ -566,7 +566,7 @@
 
     .sect-029 .inner .shipment-details p {
         text-align: center;
-        font-size: 1em;
+        font-size: 0.9em;
         border-radius:10px;
     }
 
@@ -617,9 +617,6 @@
         margin: 20px auto;
     }
 
-    .sect-030 .txt04 .txt04_txt {
-        font-size: 16px;
-    }
 
 
     .sect-030 .txt04 .txt04_txt strong {
@@ -627,8 +624,10 @@
     }
 
     .sect-030 .txt07 {
-        font-size: 0.75em;
-        padding-right:5px;
+        font-size: 0.6em;
+        /*padding-right:5px;*/
+        /*text-align: right;*/
+        font-weight:bold;
     }
 
     .sect-030 .txt05 {
@@ -636,11 +635,11 @@
     }
 
     .sect-030 .txt04 .txt04_txt {
-        font-size: 12px;
+        font-size: 10px;
     }
 
     .sect-030 .txt05 .txt05_txt {
-        font-size: 0.75em;
+        font-size: 0.6em;
     }
 
     .sect-030 .txt05 .txt05_txt strong {
@@ -987,9 +986,6 @@
         font-size: 0.8em;
     }
 
-    .sub-inner p {
-        font-size: 0.7em;
-    }
 
     .sect-024 .inner p {
         font-size: 0.6em;

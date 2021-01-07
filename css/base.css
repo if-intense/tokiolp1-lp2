@@ -931,7 +931,7 @@ header {
 }
 
 .sect-014 .mediabox {
-   width: 90%;
+   width: 95%;
    margin: 0 auto;
    background: url(../images/bg02.jpg) no-repeat top center;
    background-size: cover;
@@ -1880,7 +1880,7 @@ header {
 
  .sect-031 .separate_order h3:hover {
    text-decoration: underline;
-} 
+}
 
 .sect-031 .separate_order p {
    text-align:center;

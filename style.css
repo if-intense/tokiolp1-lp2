@@ -31,7 +31,7 @@
         bottom:40px;
     }
     .sect-002 h1 {
-        font-size:1.75em;
+        font-size:1.5em;
         padding:2vh 0;
     }
 
@@ -365,7 +365,7 @@
 
 
     .sect-018 .inner h3 {
-        font-size: 1em;
+        font-size: 0.9em;
     }
 
     .sect-018 .inner p {
@@ -635,7 +635,7 @@
     }
 
     .sect-030 .txt04 .txt04_txt {
-        font-size: 10px;
+      font-size: 0.7em;
     }
 
     .sect-030 .txt05 .txt05_txt {
@@ -717,11 +717,45 @@
         padding-left: 20px;
         padding-right: 20px;
     }
+ }
 
+ @media (max-width: 375px) {
+    .sect-002 h1 {
+      font-size:1.25em;
+    }
 
+    .sect-003 .inner p {
+      font-size:0.8em;
+    }
+
+    .sect-007 .inner h2 {
+      font-size: 1.25em;
+    }
+
+    .sect-011 .inner p {
+      font-size:1.25em;
+    }
+
+    .sect-013 h2 {
+      font-size:0.75em;
+    }
+
+    .sect-018 .inner h3 {
+      font-size: 0.8em;
+    }
+
+    .sect-020 .treatment_text01 .treatment_text_bottom {
+      padding: 20px 10px;
+      font-size: 0.6em;
+    }
+
+    .sect-030 .txt06 .txt06_txt {
+      font-size: 10px;
+    }
 
 
  }
+
 
 
  @media (max-width: 350px) {

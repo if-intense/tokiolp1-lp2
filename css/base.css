@@ -458,6 +458,7 @@ header {
 .sect-002 h1 {
    text-align: center;
    font-style: italic;
+   font-weight:bold;
    font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
    color:#B6362D;
 }
@@ -603,7 +604,7 @@ header {
    padding:1vh;
    border:1px solid #9a9a9a;
    text-align: center;
-   max-width:320px;
+   max-width:360px;
    font-size:0.9em;
    margin:0 auto;
 }

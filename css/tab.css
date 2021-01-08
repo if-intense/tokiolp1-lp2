@@ -1,4 +1,8 @@
 
+.tab-below p {
+  font-size:1.25em;
+}
+
 .product-tab {
   background:sandybrown;
 }
@@ -54,7 +58,7 @@ nav > div a.nav-item.nav-link:focus
     color:#fff;
     border-radius:0;
     transition:background 0.20s linear;
-    cursor: wait;
+    /* cursor: wait; */
 }
 
 

@@ -131,8 +131,8 @@
     }
 
     .sect-007 .inner .w95 p {
-        font-size:0.75em;
-        text-align:left;
+        font-size:0.6em;
+        text-align:center;
         padding-left:5px;
     }
 
@@ -149,10 +149,7 @@
         font-size:1.5em;
     }
 
-    .sect-007 .inner .txtarea p {
-        font-size: 8px;
-        line-height: 1.5;
-    }
+
 
     .sect-007 .inner .txtarea p {
         font-size: 8px;

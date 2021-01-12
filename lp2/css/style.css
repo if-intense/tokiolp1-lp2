@@ -70,6 +70,10 @@ footer ul li a {
   text-decoration: underline;
 }
 
+.panel-title i {
+  font-size:48px;
+}
+
 
 .section_01 h1, .word-of-mouth {
   /* font-family: ten-mincho-text, serif; */
@@ -182,11 +186,15 @@ footer ul li a {
   border-radius: 10px;
   background: rgba(255, 255, 255, 0.85);
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
-  padding:10px;
+  padding:15px 20px;
 }
 
 .word-of-mouth .female .testimonials h6, .word-of-mouth .female .testimonials p {
   font-size:14px;
+}
+
+.word-of-mouth .female .testimonials p {
+  text-align:right;
 }
 
 
@@ -692,25 +700,27 @@ footer ul li a {
 }
 
 .shampoo-treatment-item p {
-  font-size: 0.9em;
+  font-size: 1em;
   font-family: "Hiragino Mincho ProN";
-  color:#fff;
+  color:#000;
 
 }
 
 .shampoo-treatment-item p em {
-  font-size:1.25em;
+  font-size:24px;
   font-style: normal;
   padding:0 5px;
 }
 
 .shampoo-treatment-item p strong {
   text-decoration: line-through;
-  color: red;
+  /*color: red;*/
 }
 
 .shampoo-treatment-item p strong span {
-  color:#fff;
+  /*color:#fff;*/
+  font-weight:bold;
+  color:;
   font-size:2em;
 }
 
@@ -733,19 +743,30 @@ footer ul li a {
   font-family: "Hiragino Mincho ProN";
 }
 
+.shampoo-treatment-purchase .shampoo-treatment-subscription {
+  background:#FDF0A6;
+  border:3px double #000;
+  font-weight:bold;
+}
+
+.shampoo-treatment-purchase .shampoo-treatment-subscription,.shampoo-treatment-purchase .shampoo-treatment-subscription-price {
+  margin-top: auto;
+  margin-bottom:auto;
+}
+
 .shampoo-treatment-purchase .shampoo-treatment-subscription-price p {
-  color: white;
+  color: #B51423;
   font-size:0.9em;
   font-family: "Hiragino Mincho ProN";
 
 }
 
 .shampoo-treatment-purchase .shampoo-treatment-subscription-price p span {
-  color: #fdf0a6;
+  color: #B51423;
 }
 
 .shampoo-treatment-purchase .shampoo-treatment-subscription-price p strong {
-  font-size:2.25em;
+  font-size:3em;
 }
 
 .shampoo-treatment-purchase .subscription-purchase {
@@ -866,8 +887,8 @@ footer ul li a {
 }
 
 .trial-set .trial-set-item {
-  width:70%;
-  max-width:350px;
+  width:80%;
+  max-width:450px;
   margin:0 auto;
   /* background:red; */
   text-align: center;
@@ -876,7 +897,7 @@ footer ul li a {
 .trial-set .trial-set-item h3 {
   font-family: "Hiragino Mincho ProN";
   font-weight: normal;
-  font-size: 18px;
+  font-size: 1.25em;
   text-align: center;
   color: #fff;
 }
@@ -889,11 +910,12 @@ footer ul li a {
 }
 
 .trial-set .trial-set-item p span {
-  font-size: 32px;
+  font-size: 2em;
 }
 
 .trial-set .trial-set-item p strong {
-  color: #fdf0ac;
+  color: #B51423;
+  font-size:24px;
 }
 
 
@@ -1073,7 +1095,7 @@ footer ul li a {
     font-size: 1em;
   }
 
-  
+
 
   .reverse div:nth-child(1){
     order:2;

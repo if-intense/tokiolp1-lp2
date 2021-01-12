@@ -1,7 +1,16 @@
 
+
+
 .tab-below p {
-  font-size:1.25em;
+  font-size:2em;
+  border-top: 4px solid #929292;
+  border-bottom: 4px solid #929292;
+  padding:20px 0;
+  font-weight:bold;
+  color: #929292;
 }
+
+
 
 .product-tab {
   background:sandybrown;
@@ -61,4 +70,9 @@ nav > div a.nav-item.nav-link:focus
     /* cursor: wait; */
 }
 
+@media (max-width: 575.98px) {
+  .tab-below p {
+  font-size:1.25em;
+  }
+}
 

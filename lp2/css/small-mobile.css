@@ -1,4 +1,9 @@
  @media (max-width:414px) {
+  .product-title {
+  font-size:1.1em;
+  font-weight:bold;
+}
+
   .section_003 .text_003 h5 {
     font-size: 0.6em;
  }

@@ -807,8 +807,17 @@ footer ul li a {
   padding:20px;
 }
 
+.product-title {
+  font-size:1.5em;
+  font-weight:bold;
+}
+
 .subscription img.product {
   margin: 0 auto;
+}
+
+.subscription img.mobile-disp {
+  display: none;
 }
 
 .subscription .limited-for-subscription-only {

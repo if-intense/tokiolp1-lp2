@@ -68,7 +68,7 @@
   }
 
   .purchase .select h5 {
-    font-size: 18px;
+    font-size: 17px;
   }
 
   .purchase .select h3 {
@@ -306,10 +306,19 @@
       font-size:0.75em;
     }
 
+    .shampoo-treatment-purchase {
+      width: 90%;
+    }
+
+    .shampoo-treatment-purchase .shampoo-treatment-subscription {
+      font-size: 13px;
+    }
+
     .shampoo-treatment-purchase .shampoo-treatment-subscription p {
       width: 100%;
       font-size:0.75em;
       font-weight: bold;
+      /*font-size:13px;*/
     }
 
 

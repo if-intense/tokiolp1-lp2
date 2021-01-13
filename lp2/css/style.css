@@ -769,6 +769,7 @@ footer ul li a {
   color: #B51423;
   font-size:0.9em;
   font-family: "Hiragino Mincho ProN";
+  text-align:right;
 
 }
 
@@ -779,6 +780,11 @@ footer ul li a {
 .shampoo-treatment-purchase .shampoo-treatment-subscription-price p strong {
   font-size:3em;
 }
+
+.shampoo-treatment-purchase .shampoo-treatment-subscription-price p em {
+  /*margin-right: -65px;*/
+    font-style: normal;
+  }
 
 .shampoo-treatment-purchase .subscription-purchase {
   width:100%;
@@ -818,10 +824,15 @@ footer ul li a {
   padding:20px;
 }
 
+.product-t {
+  margin-top:3vh;
+}
+
 .product-title {
   font-size:1.5em;
   font-weight:bold;
   padding-bottom:3vh;
+  margin-top:3vh;
 }
 
 .subscription img.product {

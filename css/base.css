@@ -1138,6 +1138,14 @@ header {
    background: linear-gradient(transparent 60%, #ffff66 60%);
    font-style: normal;
 }
+
+.sect-018 .inner .w95 h4 {
+      font-size:1.25em;
+    }
+
+    .sect-018 .inner .w95 h5 {
+        font-size: 1em;
+    }
 .mb30 {
    margin-bottom: 30px !important;
 }

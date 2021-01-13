@@ -373,6 +373,14 @@
         font-size: 16px;
     }
 
+    .sect-018 .inner .w95 h4 {
+      font-size:1em;
+    }
+
+    .sect-018 .inner .w95 h5 {
+        font-size: 0.75em;
+    }
+
 
     .sect-019 .inner .box {
         width: 95%;
@@ -821,6 +829,14 @@
 
     .sect-007 .inner h2 {
         font-size: 1em;
+    }
+
+    .sect-018 .inner .w95 h5 {
+      font-size:0.9em;
+    }
+
+    .sect-018 .inner .w95 h4 {
+      font-size:0.8em;
     }
 
     .sect-007 .inner .w95 p {

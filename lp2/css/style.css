@@ -16,7 +16,14 @@ body {
 }
 
 
-
+.bg-slide {
+  background: url('../img/bg-slide.jpg') no-repeat center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  padding:2vh 0;
+}
 
 .br_on {
   display: none;
@@ -71,7 +78,11 @@ footer ul li a {
 }
 
 .panel-title i {
-  font-size:48px;
+  font-size:36px;
+}
+
+.icon {
+  vertical-align: middle;
 }
 
 
@@ -916,7 +927,7 @@ footer ul li a {
   font-family: "Hiragino Mincho ProN";
   font-size: 16px;
   text-align: center;
-  color: #fff;
+  color: rgb(169,31,46);
 }
 
 .trial-set .trial-set-item p span {

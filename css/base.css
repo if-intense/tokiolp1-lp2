@@ -527,8 +527,15 @@ header {
   background:url("../images/img-007.png");
 }
 
+.sect-005 .inner .area {
+  z-index: 2;
+  bottom:-50px;
+  left:30px;
+}
+
 .sect-005 .inner .discount {
   width:90%;
+  /*bottom:100px;*/
 }
 
 .sect-005 .inner .sub-class h2 {

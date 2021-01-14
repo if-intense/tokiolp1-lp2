@@ -70,6 +70,12 @@
         font-size:1.25em;
     }
 
+    .sect-005 .inner .area {
+        z-index: 2;
+        bottom:-30px;
+        left:20px;
+    }
+
     .sect-005 .inner .sub-class h2 {
         font-size:1em;
     }

@@ -527,6 +527,10 @@ header {
   background:url("../images/img-007.png");
 }
 
+.sect-005 .inner .discount {
+  width:90%;
+}
+
 .sect-005 .inner .sub-class h2 {
    font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
    text-align:center;

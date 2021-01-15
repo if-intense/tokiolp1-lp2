@@ -529,8 +529,8 @@ header {
 
 .sect-005 .inner .area {
   z-index: 2;
-  bottom:-50px;
-  left:30px;
+  /*bottom:10px;
+  left:30px;*/
 }
 
 .sect-005 .inner .discount {
@@ -1633,7 +1633,26 @@ header {
    font-weight:bold;
    font-size:1.5em;
 }
+
+
+.sect-028 .preface {
+  width:80%;
+  margin:0 auto;
+}
+
+.sect-028 .preface h6 {
+  font-weight:bold;
+  font-size:1.25em;
+}
+
+.sect-028 .preface p {
+  font-size:1em;
+}
+
+
+
  /* sect-029 */
+
 
 .sect-029 {
    background:#fff;

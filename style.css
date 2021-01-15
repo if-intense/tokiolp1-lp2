@@ -501,6 +501,18 @@
         font-size: 2em;
     }
 
+    .sect-028 .preface {
+      width:90%;
+    }
+
+    .sect-028 .preface h6 {
+      font-size:1em;
+    }
+
+    .sect-028 .preface p {
+      font-size:0.8em;
+    }
+
     .subscription p.bottom {
         font-size:0.75em;
         padding-top:2vh;

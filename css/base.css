@@ -1647,8 +1647,20 @@ header {
   font-size:1.25em;
 }
 
+.sect-028 .preface p em {
+  /*font-weight:bold;*/
+  font-size:1.5em;
+  font-style: normal;
+  color: #E74C3B;
+}
+
+
 .sect-028 .preface p {
   font-size:1em;
+}
+
+.sect-028 .preface .increase {
+  font-size:1.25em;
 }
 
 

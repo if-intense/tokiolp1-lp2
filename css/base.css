@@ -1638,6 +1638,8 @@ header {
 .sect-028 .preface {
   width:80%;
   margin:0 auto;
+  border: 3px solid #E74C3B;
+  padding: 20px;
 }
 
 .sect-028 .preface h6 {

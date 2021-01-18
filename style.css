@@ -76,6 +76,11 @@
         left:20px;
     }
 
+    .sect-005 .inner .discount {
+    width: 90%;
+    margin-bottom: 15px;
+  }
+
     .sect-005 .inner .sub-class h2 {
         font-size:1em;
     }

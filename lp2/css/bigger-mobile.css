@@ -151,6 +151,73 @@
       font-size:13px;
     }
 
+    .slideRight {
+    visibility: none;
+    animation-name: slideRight;
+    -webkit-animation-name: slideRight;
+    animation-duration: 1s;
+    -webkit-animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    -webkit-animation-timing-function: ease-in-out;
+    }
+
+    .slideLeft {
+      visibility: none;
+      animation-name: slideLeft;
+      -webkit-animation-name: slideLeft;
+      animation-duration: 1s;
+      -webkit-animation-duration: 1s;
+      animation-timing-function: ease-in-out;
+      -webkit-animation-timing-function: ease-in-out;
+    }
+
+
+    @keyframes slideRight {
+        0% {
+            transform: translateX(-100%);
+            opacity: 0;
+        }
+        100% {
+            transform: translateX(0%);
+            opacity: 1;
+        }
+
+    }
+    @-webkit-keyframes slideRight {
+        0% {
+            -webkit-transform: translateX(-100%);
+            opacity: 0;
+        }
+
+        100% {
+            -webkit-transform: translateX(0%);
+            opacity: 1;
+        }
+    }
+
+    @keyframes slideLeft {
+        0% {
+            transform: translateX(100%);
+            opacity: 0;
+        }
+        100% {
+            transform: translateX(0%);
+            opacity: 1;
+        }
+
+    }
+    @-webkit-keyframes slideLeft {
+        0% {
+            -webkit-transform: translateX(100%);
+            opacity: 0;
+        }
+
+        100% {
+            -webkit-transform: translateX(0%);
+            opacity: 1;
+        }
+    }
+
 
 
     .testimonials p {

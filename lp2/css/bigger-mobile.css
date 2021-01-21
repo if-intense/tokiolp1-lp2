@@ -422,7 +422,7 @@
 
     .purchase_and_shipment_details h3 {
         font-size:0.9em;
-        text-align: center;
+        /*text-align: center;*/
     }
 
     .purchase_and_shipment_details h3 span {

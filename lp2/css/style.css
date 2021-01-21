@@ -13,6 +13,16 @@ body {
   background-size: cover;
   -o-background-size: cover;
   font-family: "Sawarabi Gothic";
+  overflow-x: hidden;
+  width:100vw;
+}
+
+html, body {
+    overflow-x:hidden;
+    width:100%;
+   /* You may also want to try adding:*/
+    margin: 0;
+    padding: 0;
 }
 .row.no-gutters {
    margin-right: 0;
@@ -1133,7 +1143,7 @@ footer ul li a {
   font-size:1.25em;
   font-weight:bold;
   padding:0 10px;
-  background: linear-gradient(transparent 60%, #436b95 0%);
+  background: linear-gradient(transparent 60%, #64adef 0%);
   -ms-transform: rotate(-20deg); /* IE 9 */
   transform: rotate(-20deg);
 }

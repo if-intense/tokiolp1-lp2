@@ -91,6 +91,7 @@
 /* smartphone view 575px and down */
 @media (max-width: 575.98px) {
 
+
     .product-title {
       font-size:1.25em;
       font-weight:bold;

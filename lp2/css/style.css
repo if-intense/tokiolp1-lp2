@@ -1105,7 +1105,12 @@ footer ul li a {
 .purchase_and_shipment_details h3 {
    font-family: "Sawarabi Gothic";
   font-size:1.25em;
-  text-align: center;
+  /*text-align: center;*/
+}
+
+.purchase_and_shipment_details .details-inner {
+  width:90%;
+  margin:0 auto;
 }
 
 .purchase_and_shipment_details h3 span {

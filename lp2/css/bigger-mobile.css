@@ -266,6 +266,10 @@
       font-size: 0.9em;
     }
 
+    .section_002 .fullerene p {
+      font-size:0.6em;
+    }
+
     .section_003 .text_003 {
       background: rgba(255, 255, 255, 90%);
       width: 100%;
@@ -425,7 +429,7 @@
         font-size:1.25em;
         font-weight:bold;
         padding:0 10px;
-        background: linear-gradient(transparent 60%, #F892A3 0%);
+        /*background: linear-gradient(transparent 60%, #F892A3 0%);*/
     }
 
     .purchase_and_shipment_details p {

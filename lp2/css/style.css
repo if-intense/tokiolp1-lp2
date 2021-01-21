@@ -371,6 +371,22 @@ footer ul li a {
   /* font-family: はれのそら明朝, serif; */
 }
 
+.section_002 .exp-full {
+  margin:4vh auto;
+}
+
+.section_002 .fullerene {
+  background:#fff;
+  border:3px double black;
+}
+
+.section_002 .fullerene-img img {
+  width:90%;
+  margin:0 auto;
+  padding-left:20px;
+}
+
+
 .section_002 h2 {
   text-align:center;
   padding:30px;

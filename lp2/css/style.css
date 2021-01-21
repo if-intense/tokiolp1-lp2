@@ -34,13 +34,7 @@ html, body {
 }
 
 
-.video {
-  display: block;
-}
 
-.videoMBL {
-  display:none;
-}
 
 #videoBG, #videoBG-MBL {
   z-index: 1;
